@@ -17,9 +17,6 @@ Write the needed HTML code
 Run the django server and execute the HTML files
 
 ### Code
-![mapweb](https://user-images.githubusercontent.com/115523950/233775682-fa9d504f-cc7f-47b0-829d-7dc9e49f5f89.png)
-
-
 ```
 <!DOCTYPE html>
 <html>
@@ -208,6 +205,8 @@ Run the django server and execute the HTML files
  </html>
 ```
 ## Output:
+![mapweb](https://user-images.githubusercontent.com/115523950/233775682-fa9d504f-cc7f-47b0-829d-7dc9e49f5f89.png)
+
 ![sweets](https://user-images.githubusercontent.com/115523950/233784774-fa81413e-b217-41e5-bbb0-e1730fa6ee82.png)
 
 ![temple](https://user-images.githubusercontent.com/115523950/233784767-acf19215-b734-466f-b3f4-55780ea04976.png)
